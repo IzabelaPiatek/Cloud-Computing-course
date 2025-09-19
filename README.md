@@ -11,14 +11,14 @@ Projekt zawiera:
 - Wyszukujemy i aktywyujemy Google Compute Engine API
 - Otwieramy Virtual Machines -> VM Instances -> Create Instance -> New VM Instance
 - Wprowadzamy wymagane dane:
-  -- Name: My-first-VM-IK
-  -- Region: us-central1
-  -- Zone: Any
-  -- Machine Configuration:
-  -- Series: E2
-  -- Machine Type: e2-micro
-  -- Firewall
-  -- Allow HTTP Traffic
+  - Name: My-first-VM-IK
+  - Region: us-central1
+  - Zone: Any
+  - Machine Configuration:
+      - Series: E2
+      - Machine Type: e2-micro
+  - Firewall:
+    - Allow HTTP Traffic
 - Kilkamy przycisk Create, abys tworzyć instancję VM
 
 
