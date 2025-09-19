@@ -7,7 +7,8 @@ Projekt zawiera:
 2. Łączenie się z instancją maszyny wirtualnej Linux za pomocą protokołu SSH za pośrednictwem konsoli GCP (SSH w przeglądarce).
 
 ## Krok 1 - Tworzenie instancji VM
-- Należy aktywować Google Compute Engine API
+- Otwieramy Google Cloud w przeglądarce
+- Wyszukujemy i aktywyujemy Google Compute Engine API
 - Otwieramy Virtual Machines -> VM Instances -> Create Instance -> New VM Instance -> Wprowadzamy wymagane dane
 Name: My-first-VM-IK
 Region: us-central1
