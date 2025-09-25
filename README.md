@@ -34,10 +34,10 @@ In this section, we will cover the following topics:
 Go to VM Instances -> VM-IK -> SSH -> Open in browser window
 Understand what happens in the background when establishing an SSH connection via the browser
 
-## Step-05: Review wgrywka.sh
+## Step-05: Review script.sh
 - Create a simple script named script.sh and put the below contnent and run it
 - **script.sh**
-```sh
+```bash
 sudo apt install -y telnet
 sudo apt install -y nginx
 sudo systemctl enable nginx
