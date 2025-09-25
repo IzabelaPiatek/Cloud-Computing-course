@@ -12,7 +12,7 @@ In this section, we will cover the following topics:
 ## Step-02: Create VM Instance
 - Enable *Google Compute Engine API*
 - Go to Virtual Machines -> VM Instances -> Create Instance -> New VM Instance -> Provide the required details
-- **Name:** Ania-1-vm
+- **Name:** VM-IK
 - **Region:** us-central1
 - **Zone:** Any
 - **Machine Configuration:**
@@ -31,7 +31,7 @@ In this section, we will cover the following topics:
 
 ## Step-04: Connect to Linux VM Instance using SSH
 
-Go to VM Instances -> Ania-1-vm -> SSH -> Open in browser window
+Go to VM Instances -> VM-IK -> SSH -> Open in browser window
 Understand what happens in the background when establishing an SSH connection via the browser
 
 ## Step-05: Review wgrywka.sh
