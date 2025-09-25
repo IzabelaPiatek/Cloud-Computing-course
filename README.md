@@ -37,7 +37,7 @@ Understand what happens in the background when establishing an SSH connection vi
 ## Step-05: Review wgrywka.sh
 - Create a simple script named script.sh and put the below contnent and run it
 - **script.sh**
-```
+```sh
 sudo apt install -y telnet
 sudo apt install -y nginx
 sudo systemctl enable nginx
